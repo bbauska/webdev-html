@@ -22,3 +22,6 @@ We'll cover most of these in the series. But first, what is an element?
 HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear or act in a certain way. HTML elements are delineated by tags, written using angle brackets (&lt; and &gt;).
 
 Our page title is a heading, level one, for which we use the &lt;h1&gt; tag. The actual title, "Machine Learning Workshop", is the content of our element. The content goes between the open and closing tags. The entire thing—the opening tag, closing tag, and the content—is the element.
+![image](https://user-images.githubusercontent.com/41387907/236105813-d08bcd3d-c6ae-4517-bd48-f11ab85aef4e.png)
+
+
