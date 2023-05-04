@@ -34,11 +34,11 @@ Elements and tags aren't the exact same thing, though many people use the terms 
   content</p>
 ```
 
-This paragraph element has other elements nested in it. When nesting elements, it's important that they are properly nested. HTML tags should be closed in the reverse order of which they were opened. In the above example, notice how the <em> is both opened and closed within the opening and closing <strong> tags, and the <strong> is both open and closed within the <p> tags.
+This paragraph element has other elements nested in it. When nesting elements, it's important that they are properly nested. HTML tags should be closed in the reverse order of which they were opened. In the above example, notice how the <em> is both opened and closed within the opening and closing &lt;strong&gt; tags, and the &lt;strong&gt; is both open and closed within the &lt;p&gt; tags.
 
 Browsers do not display the tags. The tags are used to interpret the content of the page.
 
-HTML is very, very forgiving. For example, if we omit the closing </li> tags, the closing tags are implied.
+HTML is very, very forgiving. For example, if we omit the closing &lt;/li&gt; tags, the closing tags are implied.
 
 ```
 <ul>
