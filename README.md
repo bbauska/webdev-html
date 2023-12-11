@@ -1,4 +1,7 @@
 # webdev-html
+
+<a href="https://www.html-easy.com/learn/">Excellent Intro to HTML</a>
+
 This HTML course for web developers provides a solid overview for developers, from novice to expert level HTML.
 
 HyperText Markup Language, or HTML, is the standard markup language for describing the structure of documents displayed on the web. HTML consists of a series of elements and attributes which are used to mark up all the components of a document to structure it in a meaningful way.
