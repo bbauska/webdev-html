@@ -118,3 +118,24 @@ to close your tags, that doesn't cause the worst problems.</ohno>
       <td>table cell
 ```
 
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<button onclick="myFunction()">Click me</button>
+
+<div id="myPopup" class="popup">
+  <span class="popuptext" id="myPopupText">A Simple Popup!</span>
+</div>
+
+<script>
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
+
+</body>
+</html>
+```
