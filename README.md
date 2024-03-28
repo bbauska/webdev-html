@@ -1,6 +1,6 @@
 # webdev-html
 
-<a href="https://www.html-easy.com/learn/">Excellent Intro to HTML</a>
+<a href="https://www.html-easy.com/learn/" rel="noopenner noreferrer" target="_blank">Excellent Introduction to HTML</a>
 
 This HTML course for web developers provides a solid overview for developers, from novice to expert level HTML.
 
